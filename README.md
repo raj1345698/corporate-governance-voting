@@ -12,9 +12,6 @@ To provide a minimal yet effective decentralized productivity tool that demonstr
 - **Complete Tasks:** Task owners can mark their tasks as completed.
 - **Full On-Chain Storage:** All task data is stored securely on the blockchain.
 
-## 🚀 Future Scope
-- Add **user profiles** to personalize task management.
-- Introduce **task categories** and **priority levels**.
-- Implement **IPFS integration** to support larger data.
-- Create a **frontend UI** with React + Ethers/Web3.
-- Add **task deadlines** and **reminders**.
+
+
+contaract address : 0x0b01b9D9C03F074A39D9eef41b470c2253aE7986
